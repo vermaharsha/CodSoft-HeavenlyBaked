@@ -27,5 +27,6 @@ The Heavenly Baked is hosted on GitHub Pages. To view the page, you can go to th
 Contributions to the Heavenly Baked are welcome. To contribute, please fork the GitHub repository and submit a pull request.
 
 
-## VISUAL REPRESENTATION
+## Visual Representation
+![ss](https://github.com/vermaharsha/vermaharsha/assets/111423734/be888f5e-d76f-4ce4-8f65-4629a38c6e47)
 
