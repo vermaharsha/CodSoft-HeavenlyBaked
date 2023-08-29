@@ -16,15 +16,12 @@ The Heavenly Baked features the following:
 * Have a team of experienced bakers who are passionate about creating delicious baked goods.
 * Are committed to providing our customers with excellent service.
 
-## Installation
-
-The Heavenly Baked is hosted on GitHub Pages. To view the page, you can go to the following URL :
-`https://[vermaharsha].github.io/heavenly-baked/`
-
 
 ## Contributing
 
 Contributions to the Heavenly Baked are welcome. To contribute, please fork the GitHub repository and submit a pull request.
+Clone the repository: 
+`https://vermaharsha.github.io/heavenly-baked/`
 
 
 ## Visual Representation
