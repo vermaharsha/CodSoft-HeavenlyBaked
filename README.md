@@ -20,8 +20,6 @@ The Heavenly Baked features the following:
 ## Contributing
 
 Contributions to the Heavenly Baked are welcome. To contribute, please fork the GitHub repository and submit a pull request.
-Clone the repository: 
-```https://vermaharsha.github.io/heavenly-baked/```
 
 
 ## Visual Representation
