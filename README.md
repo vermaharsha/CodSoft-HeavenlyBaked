@@ -20,6 +20,11 @@ The Heavenly Baked features the following:
 ## Contributing
 
 Contributions to the Heavenly Baked are welcome. To contribute, please fork the GitHub repository and submit a pull request.
+To clone the repo, you can use the following command:
+```bash
+git clone https://github.com/vermaharsha/heavenly-baked.git
+
+```
 
 
 ## Visual Representation
