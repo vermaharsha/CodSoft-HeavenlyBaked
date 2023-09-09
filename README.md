@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Heavenly Baked is a landing page for a bakery website. The page was created as an internship project.
+Heavenly Baked is a landing page for a bakery website. The page was created as an internship project at CodSoft.
 
 <a href="https://vermaharsha.github.io/heavenly-baked/"><strong>➥ Real-time Demonstration</strong></a>
 
