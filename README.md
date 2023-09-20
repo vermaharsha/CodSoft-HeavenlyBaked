@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Heavenly Baked is a landing page for a bakery website. The page was created as an internship project at CodSoft.
+Heavenly Baked is a landing page for a bakery website.
 
-<a href="https://vermaharsha.github.io/CodSoft-HeavenlyBaked/"><strong>➥ Real-time Demonstration</strong></a>
+<a href="https://vermaharsha.github.io/HeavenlyBaked/"><strong>➥ Real-time Demonstration</strong></a>
 
 ## Features
 
@@ -23,7 +23,7 @@ Contributions to the Heavenly Baked are welcome. To contribute, please fork the 
 
 To clone the repo, you can use the following command:
 ```bash
-git clone https://github.com/vermaharsha/CodSoft-HeavenlyBaked.git
+git clone https://github.com/vermaharsha/HeavenlyBaked.git
 
 ```
 
